@@ -4,7 +4,7 @@ import random as rando
 # Gets the verbs from verbs.csv
 def get_defs():
    verbs = []
-   with open('/home/erik/StarkeVerben/verbs.csv', 'r') as verbs_file:
+   with open('verbs.csv', 'r') as verbs_file:
       reader = csv.reader(verbs_file)
       for row in reader:
          verbs.append(row)
