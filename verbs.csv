@@ -1,7 +1,7 @@
 befehlen,befiehlt,befahl,befähle,hat befohlen,commander
 beginnen,beginnt,begann,begänne,hat begonnen,commencer
 bieten,bietet,bot,böte,hat geboten,offrir
-bitten,bittet,bat,bäte,hat gebeten,demander,prier
+bitten,bittet,bat,bäte,hat gebeten,"demander,prier"
 brechen,bricht,brach,bräche,hat gebrochen,briser
 dürfen,darf,durfte,dürfte,hat gedurft,avoir l'autorisation de
 empfangen,empfängt,empfing,empfinge,hat empfangen,recevoir
@@ -34,13 +34,13 @@ können,kann,konnte,könnte,hat gekonnt,pouvoir
 kriechen,kriecht,kroch,kröche,ist gekrochen,ramper
 laden,lädt,lud,lüde,hat geladen,charger
 lassen,lässt,lieB,lieBe,hat gelassen,laisser
-laufen,läuft,lief,liefeist gelaufen,courir
+laufen,läuft,lief,liefe,ist gelaufen,courir
 leiden,leidet,litt,litte,hat gelitten,souffrir
 leihen,leiht,lieh,liehe,hat geliehen,prêter
 lesen,liest,las,läse,hat gelesen,lire
 liegen,liegt,lag,läge,hat gelegen,être couché
 lügen,lügt,log,löge,hat gelogen,mentir
-mögen,mag,mochte,möchte,hat gemocht,aimer,souhaiter
+mögen,mag,mochte,möchte,hat gemocht,"aimer,souhaiter"
 müssen,muss,musste,müsste,hat gemusst,être obligé
 nehmen,nimmt,nahm,nähme,hat genommen,prendre
 pfeifen,pfeift,pfiff,pffife,hat gepfiffen,siffler
@@ -50,14 +50,14 @@ reiBen,reiBt,riss,risse,ist gerissen,se déchirer
 reiten,reitet,ritt,ritte,ist geritten,monter à cheval
 riechen,riecht,roch,röche,hat gerochen,sentir
 rufen,ruft,rief,riefe,hat gerufen,appeler
-scheinen,scheint,schien,schiene,hat geschienen,briller,sembler
+scheinen,scheint,schien,schiene,hat geschienen,"briller,sembler"
 schieben,schiebt,schob,schöbe,hat geschoben,pousser
 schieBen,schieBt,schoss,schösse,hat geschossen,tirer
 schlafen,schläft,schlief,schliefe,hat geschlafen,dormir
 schlagen,schlägt,schlug,schlüge,hat geschlagen,battre
 schlieBen,schlieBt,schloss,schlösse,hat geschlossen,fermer
 schneiden,schneidet,schnitt,schnitte,hat geschnitten,couper
-schreiben,schreibt,schrieb,hat geschrieben,écrire
+schreiben,schreibt,schrieb,schriebe,hat geschrieben,écrire
 schreien,schreit,schrie,schriee,hat geschrien,crier
 schreiten,schreitet,schritt,schritte,ist geschritten,marcher
 schweigen,schweigt,schwieg,schwiege,hat geschwiegen,se taire
