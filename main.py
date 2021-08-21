@@ -1,10 +1,16 @@
 import csv
 import random as rando
 
+# The prompt the user gets when he has to answer
+PROMPT = "> "
+# The numbers of forms of the verbs in franch and german
+NUMBER_OF_FORMS_DE = 5
+NUMBER_OF_FORMS_FR = 1
+
 # Gets the verbs from verbs.csv
 def get_defs():
    verbs = []
-   with open('verbs.csv', 'r') as verbs_file:
+   with open('/home/erik/StarkeVerben/verbs.csv', 'r') as verbs_file:
       reader = csv.reader(verbs_file)
       for row in reader:
          verbs.append(row)
@@ -36,16 +42,23 @@ def ask_n(lang :bool, n :int, verbs):
    correct = False
 
    # if lang = True, we test from DE to FR else, we test from FR to DE, in both cases, we get what we have to print and what the user has to answer
+   DE_FORMS = verbs[n][0]
+   for i in range(1, NUMBER_OF_FORMS_DE):
+      DE_FORMS += ", " + verbs[n][i]
+   FR_FORMS = verbs[n][NUMBER_OF_FORMS_DE]
+   for i in range(NUMBER_OF_FORMS_DE + 1, NUMBER_OF_FORMS_DE + NUMBER_OF_FORMS_FR):
+      FR_FORMS += ", " + verbs[n][i]
+
    if lang:
-      to_print = verbs[n][0], verbs[n][1], verbs[n][2], verbs[n][3], verbs[n][4]
-      ans = verbs[n][5]
+      to_print = DE_FORMS
+      ans = FR_FORMS
    else:
-      to_print = verbs[n][5]
-      ans =  (verbs[n][0] + ", " + verbs[n][1] + ", " + verbs[n][2] + ", " + verbs[n][3] + ", " + verbs[n][4])
+      to_print = FR_FORMS
+      ans = DE_FORMS
 
    # Printing what's to print & getting the user's answer
    print(to_print)
-   rep = input("> ")
+   rep = input(PROMPT)
 
    # testing if the user's answer is correct and returning True
    if rep == ans:
@@ -55,13 +68,13 @@ def ask_n(lang :bool, n :int, verbs):
    else:
       while rep != ans:
          print("Recopiez ", ans, " : ")
-         rep = input("> ")
+         rep = input(PROMPT)
       return False
       
 def learn():
    # Letting the user to choos wich way he wants to learne 
    print("Que voulez-vous faire ?\n1 - Apprendre FR => DE\n2 - Apprendre DE => FR")
-   choice = int(input("> "))
+   choice = int(input(PROMPT))
    if choice == 2:
       choice = True
    else:
