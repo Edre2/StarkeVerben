@@ -1,0 +1,33 @@
+\documentclass{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{longtable}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Erik}
+\lhead{Vokabeln}
+\rfoot{\thepage}
+
+\titleformat{\section}
+{\huge\bfseries} % Text Formating
+{\thesection}    % Numbers before
+{0em}            % Size between number and name
+{.    }[\titlerule]  % Things to display between numbers and name
+
+% Sections begin on a new page
+\newcommand{\sectionbreak}{\clearpage}
+
+\title{Starke Verben}
+\author{Me}
+\date{September 1}
+
+\begin{document}
+
+\begin{titlepage}
+\maketitle
+\end{titlepage}
+
+
