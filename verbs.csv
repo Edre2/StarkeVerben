@@ -1,63 +1,94 @@
-befehlen,befiehlt,befahl,befähle,hat befohlen,commander
-beginnen,beginnt,begann,begänne,hat begonnen,commencer
-bieten,bietet,bot,böte,hat geboten,offrir
-bitten,bittet,bat,bäte,hat gebeten,"demander,prier"
-brechen,bricht,brach,bräche,hat gebrochen,briser
-dürfen,darf,durfte,dürfte,hat gedurft,avoir l'autorisation de
-empfangen,empfängt,empfing,empfinge,hat empfangen,recevoir
-empfehlen,empfiehlt,empfahl,empföhle,hat empfohlen,recommander
-empfinden,empfindet,empfand,empfände,hat empfunden,éprouver
-erschrecken,erschrickt,erschrak,erschräke,ist erschrocken,s'effrayer
-essen,isst,aB,äBe,hat gegessen,manger
-fahren,fährt,fuhr,führe,ist gefahren,aller
-fahren,fährt,fuhr,führe,hat gefahren,conduire
-fallen,fällt,fiel,fiele,ist gefallen,tomber
-fangen,fängt,fing,finge,hat gefangen,attraper
-finden,findet,fand,fände,hat gefunden,trouver
-fliegen,fliegt,flog,flöge,ist geflogen,voler
-fliehen,flieht,floh,flöhe,ist geflohen,fuir
-flieBen,flieBt,floss,flösse,ist geflossen,couler
-frieren,friert,fror,fröre,hat gefroren,geler
-geben,gibt,gab,gäbe,hat gegeben,donner
-gehen,geht,ging,ginge,ist gegangen,aller à pied
-genieBen,genieBt,genoss,genösse,hat genossen,jouir de
-geschehen,geschieht,geschah,geschähe,ist geschehen,se passer
-gewinnen,gewinnt,gewann,gewönne,hat gewonnen,gagner
-greifen,greift,griff,griffe,hat gegriffen,saisir
-haben,hat,hatte,hätte,hat gehabt,avoir
-halten,hält,hielt,hielte,hat gehalten,tenir
-hangen,hängt,hing,hinge,hat gehangen,être suspendu
-heiBen,heiBt,hieB,hieBe,hat geheiBen,s'appeler
-helfen,hilft,half,hülfe,hat geholfen,aider
-kommen,kommt,kam,käme,ist gekommen,venir
-können,kann,konnte,könnte,hat gekonnt,pouvoir
-kriechen,kriecht,kroch,kröche,ist gekrochen,ramper
-laden,lädt,lud,lüde,hat geladen,charger
-lassen,lässt,lieB,lieBe,hat gelassen,laisser
-laufen,läuft,lief,liefe,ist gelaufen,courir
-leiden,leidet,litt,litte,hat gelitten,souffrir
-leihen,leiht,lieh,liehe,hat geliehen,prêter
-lesen,liest,las,läse,hat gelesen,lire
-liegen,liegt,lag,läge,hat gelegen,être couché
-lügen,lügt,log,löge,hat gelogen,mentir
-mögen,mag,mochte,möchte,hat gemocht,"aimer,souhaiter"
-müssen,muss,musste,müsste,hat gemusst,être obligé
-nehmen,nimmt,nahm,nähme,hat genommen,prendre
-pfeifen,pfeift,pfiff,pffife,hat gepfiffen,siffler
-raten,rät,riet,riete,hat geraten,conseiller
-reiBen,reiBt,riss,risse,hat gerissen,arracher
-reiBen,reiBt,riss,risse,ist gerissen,se déchirer
-reiten,reitet,ritt,ritte,ist geritten,monter à cheval
-riechen,riecht,roch,röche,hat gerochen,sentir
-rufen,ruft,rief,riefe,hat gerufen,appeler
-scheinen,scheint,schien,schiene,hat geschienen,"briller,sembler"
-schieben,schiebt,schob,schöbe,hat geschoben,pousser
-schieBen,schieBt,schoss,schösse,hat geschossen,tirer
-schlafen,schläft,schlief,schliefe,hat geschlafen,dormir
-schlagen,schlägt,schlug,schlüge,hat geschlagen,battre
-schlieBen,schlieBt,schloss,schlösse,hat geschlossen,fermer
-schneiden,schneidet,schnitt,schnitte,hat geschnitten,couper
-schreiben,schreibt,schrieb,schriebe,hat geschrieben,écrire
-schreien,schreit,schrie,schriee,hat geschrien,crier
-schreiten,schreitet,schritt,schritte,ist geschritten,marcher
-schweigen,schweigt,schwieg,schwiege,hat geschwiegen,se taire
+t befohlen ,commander
+beginnen, beginnt, begann, begänne, hat begonnen ,commencer
+bieten, bietet, bot, böte, hat geboten ,offrir
+bitten, bittet, bat, bäte, hat gebeten ,demander, prier
+brechen, bricht, brach, bräche, hat gebrochen ,briser
+dürfen, darf, durfte, dürfte, hat gedurft ,avoir l'autorisation de
+empfangen, empfängt, empfing, empfinge, hat empfangen ,recevoir
+empfehlen, empfiehlt, empfahl, empföhle, hat empfohlen ,recommander
+empfinden, empfindet, empfand, empfände, hat empfunden ,éprouver
+erschrecken, erschrickt, erschrak, erschräke, ist erschrocken ,s'effrayer
+essen, isst, aß, äße, hat gegessen ,manger
+fahren, fährt, fuhr, führe, ist gefahren ,aller
+fahren, fährt, fuhr, führe, hat gefahren ,conduire
+fallen, fällt, fiel, fiele, ist gefallen ,tomber
+fangen, fängt, fing, finge, hat gefangen ,attraper
+finden, findet, fand, fände, hat gefunden ,trouver
+fliegen, fliegt, flog, flöge, ist geflogen ,voler
+fliehen, flieht, floh, flöhe, ist geflohen ,fuir
+fließen, fließt, floss, flösse, ist geflossen ,couler
+frieren, friert, fror, fröre, hat gefroren ,geler
+geben, gibt, gab, gäbe, hat gegeben ,donner
+gehen, geht, ging, ginge, ist gegangen ,aller à pied
+genießen, genießt, genoss, genösse, hat genossen ,jouir de
+geschehen, geschieht, geschah, geschähe, ist geschehen ,se passer
+gewinnen, gewinnt, gewann, gewönne, hat gewonnen ,gagner
+greifen, greift, griff, griffe, hat gegriffen ,saisir
+haben, hat, hatte, hätte, hat gehabt ,avoir
+halten, hält, hielt, hielte, hat gehalten ,tenir
+hangen, hängt, hing, hinge, hat gehangen ,être suspendu
+heißen, heißt, hieß, hieße, hat geheißen ,s'appeler
+helfen, hilft, half, hülfe, hat geholfen ,aider
+kommen, kommt, kam, käme, ist gekommen ,venir
+können, kann, konnte, könnte, hat gekonnt ,pouvoir
+kriechen, kriecht, kroch, kröche, ist gekrochen ,ramper
+laden, lädt, lud, lüde, hat geladen ,charger
+lassen, lässt, ließ, ließe, hat gelassen ,laisser
+laufen, läuft, lief, liefeist gelaufen ,courir
+leiden, leidet, litt, litte, hat gelitten ,souffrir
+leihen, leiht, lieh, liehe, hat geliehen ,prêter
+lesen, liest, las, läse, hat gelesen ,lire
+liegen, liegt, lag, läge, hat gelegen ,être couché
+lügen, lügt, log, löge, hat gelogen ,mentir
+mögen, mag, mochte, möchte, hat gemocht ,aimer, souhaiter
+müssen, muss, musste, müsste, hat gemusst ,être obligé
+nehmen, nimmt, nahm, nähme, hat genommen ,prendre
+pfeifen, pfeift, pfiff, pffife, hat gepfiffen ,siffler
+raten, rät, riet, riete, hat geraten ,conseiller
+reißen, reißt, riss, risse, hat gerissen ,arracher
+reißen, reißt, riss, risse, ist gerissen ,se déchirer
+reiten, reitet, ritt, ritte, ist geritten ,monter à cheval
+riechen, riecht, roch, röche, hat gerochen ,sentir
+rufen, ruft, rief, riefe, hat gerufen ,appeler
+scheinen, scheint, schien, schiene, hat geschienen ,briller, sembler
+schieben, schiebt, schob, schöbe, hat geschoben ,pousser
+schießen, schießt, schoss, schösse, hat geschossen ,tirer
+schlafen, schläft, schlief, schliefe, hat geschlafen ,dormir
+schlagen, schlägt, schlug, schlüge, hat geschlagen ,battre
+schließen, schließt, schloss, schlösse, hat geschlossen ,fermer
+schneiden, schneidet, schnitt, schnitte, hat geschnitten ,couper
+schreiben, schreibt, schrieb, schriebe, hat geschrieben ,écrire
+schreien, schreit, schrie, schriee, hat geschrien ,crier
+schreiten, schreitet, schritt, schritte, ist geschritten ,marcher
+schweigen, schweigt, schwieg, schwiege, hat geschwiegen ,se taire
+schwimmen, schwimmt, schwamm, schwömme, ist geschwommen ,nager
+sehen, sieht, sah, sähe, hat gesehen ,voir
+sein, ist, war, wäre, ist gewesen ,être
+singen, singt, sang, sänge, hat gesungen ,chanter
+sinken, sinkt, sank, sänke, ist gesunken ,sombrer
+sitzen, sitzt, saß, säße, hat gesessen ,être assis
+sollen, soll, sollte, sollte, hat gesollt ,devoir
+sprechen, spricht, sprach, spräche, hat gesprochen ,parler
+springen, springt, sprang, spränge, ist gesprungen ,sauter
+stehen, steht, stand, stände, hat gestanden ,être debout
+stehlen, stihlt, stahl, stäle, hat gestohlen ,voler
+steigen, steigt, stieg, stiege, ist gestiegen ,monter
+sterben, stirbt, starb, stürbe, ist gestorben ,mourir
+streiten, streitet, stritt, stritte, hat gestritten ,se disputer
+tragen, trägt, trug, trüge, hat getragen ,porter
+treffen, trifft, traf, träfe, hat getroffen ,atteindre
+treten, tritt, trat, träte, ist/hat getreten ,fouler au pieds, entrer
+tun, tut, tat, täte, hat getan ,faire
+vergessen, vergisst, vergaß, vergäße, hat vergessen ,oublier
+verlieren, verliert, verlor, verlöre, hat verloren ,perdre
+verzeihen, verzeiht, verzieh, verziehe, hat verziehen ,pardonner
+wachsen, wächst, wuchs, wüchse, ist gewachsen ,pousser
+waschen, wäscht, wusch, wüsche, hat gewaschen ,laver
+werben, wirbt, warb, würbe, hat geworben ,recruter
+werden, wird, wurde, würde, ist geworden ,devenir
+werfen, wirft, warf, würfe, hat geworfen ,jeter
+wissen, wisst, wusste, wüsste, hat gewusst ,savoir
+wollen, will, wollte, wollte, hat gewollt ,vouloir
+ziehen, zieht, zog, zöge, ist gezogen ,aller, errer
+ziehen, zieht, zog, zöge, hat gezogen ,tirer
+zwingen, zwingt, zwang, zwänge, hat gezwungen ,obliger
